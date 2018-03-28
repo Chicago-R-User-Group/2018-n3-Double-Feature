@@ -1,0 +1,28 @@
+---
+title: "The Tax Divide in R and Extending R"
+author: " "
+date: "March 29th, 2018"
+output:
+  ioslides_presentation:
+    widescreen: true
+    logo: images/Rlogo.png
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Tonights talks
+
+A *Double Feature*:
+
+We are excited to present two interesting and timely talks: Sandhya Kambhampati's "The Property Tax Divide analysis with R" and Dirk Eddelbuettel on "Extending R" for performance.
+
+Special Thanks to IBM for sponsoring this meetup and making it possible!
+
+```{r, out.width = "400px"}
+path <- paste0(getwd(), "/images/IBM-Logo.jpg")
+knitr::include_graphics(path)
+```
