@@ -26,4 +26,5 @@ language. Dirk is going to dive into these concepts with us and show us how we a
 Dirk is an active contributor to the global R community. He is an R Foundation board member and an Associate Editor for the Journal of Statistical Software. For over 20 years, he has contributed to open source software and worked in Quantitative Finance. Dirk is one of the authors of the Rcpp package, which remains the most downloaded package on the Comprehensive R Archive Network and is used to extend the performance of roughly 10% of R packages published on CRAN.
 
 http://dirk.eddelbuettel.com/
+
 https://twitter.com/eddelbuettel
