@@ -26,7 +26,8 @@ knitr::include_graphics(path1)
 ## Training Session – R From the Beginning 
 
 Joe Cursio and CRUG organizers will show you how to install R, how to install the very useful RStudio, and show some of the usefulness of R. Bring your laptop, and we’ll bring the wifi, power for your computer, and power for you (free coffee and pizza).
-Date and Time: 11 AM Saturday April 14th.
+
+**Date and Time: 11 AM Saturday April 14th.**
 
 **Location: Stuart School of Business (Illinois Institute of Technology’s graduate campus), 565 W. Adams, Chicago IL (a block west of the old Union Station) Classroom 270.**
 
@@ -46,7 +47,7 @@ knitr::include_graphics(path)
 
 
 
-## Jobs
+# Looking for Employees or Consultants?
 
 
 ## R Consortium News {.smaller .columns-2}
@@ -88,7 +89,7 @@ And on Twitter:
 
 
 
-## Extending R
+## Extending R Raffle!
 
 ```{r, out.width = "350px"}
 path <- paste0(getwd(), "/images/Extending-R.jpg")
