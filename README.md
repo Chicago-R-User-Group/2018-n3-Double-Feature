@@ -1,10 +1,7 @@
-# 2018-n3-Double-Feature 
+# Summary
 
-We are excited to present two interesting and timely talks: Sandhya Kambhampati's "The Property Tax Divide analysis with R" and Dirk Eddelbuettel on "Extending R" for performance.
+For those of you who couldn't make it Thursday, there were two great talks (as usual).   Sandhya Kambhampati from Pro Publica gave a talk on "The Property Tax Divide Analysis with R"  in which she explained how, after some fantastic data cleaning, Pro Publica was able to show via an analysis in R that there was something statistically unlikely in the way properties were valued in R.  This talk was a great example of R in action.  Then Dirk Eddebuettel gave a really nice talk on how R can be combined with other computing languages to enhance it's power.  Dirk's talk started with some early history of R and ended with a discussion of the Reticulate package, announced just last week,  which allows one to call Python from R.  Thanks to both our speakers for two excellent talks!
 
-Nearly a year after Jak's Tap closed (R.I.P.), we have found a suitable replacement for our next meetup: Jefferson Tap! Pizza, salads, and drinks will be generously sponsored by IBM, who has been supportive of open source and R. Thanks IBM!
-
-Talks will begin at 6, with time to get to know your local R community before and after. March 29th, 5:30 - 8:00 p.m., Jefferson Tap
 
 [Introduction Slides Here](http://rpubs.com/JustinMShea/CRUG-2018-n3)
 
